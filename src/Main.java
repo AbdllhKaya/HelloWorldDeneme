@@ -4,5 +4,8 @@ public class Main {
 
         System.out.println("Hello World!");
 
-        }
+        char X = 'J', Y= 'A',Z='V';
+
+        System.out.println(""+ X+Y+Z+Y);
+    }
     }
